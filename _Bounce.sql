@@ -1,0 +1,23 @@
+SELECT
+AccountID,		
+OYBAccountID,	
+JobID,
+ListID,	
+BatchID,	
+SubscriberID,	
+SubscriberKey,		
+EventDate,	
+IsUnique,
+Domain,	
+BounceCategoryID,
+BounceCategory,
+BounceSubcategoryID,	
+BounceSubcategory,	
+BounceTypeID,		
+BounceType,
+SMTPBounceReason,
+SMTPMessage,
+SMTPCode,
+TriggererSendDefinitionObjectID,
+TriggeredSendCustomerKey
+FROM _Bounce

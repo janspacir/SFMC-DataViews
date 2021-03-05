@@ -1,0 +1,21 @@
+SELECT
+SubscriberID,
+SubscriberKey,
+ListID,
+BatchID,
+SocialSharingSiteID,	
+SiteName,
+CountryCode,
+PublishedSocialContentID,
+RegionTitle,
+RegionDescription,
+RegionHTML,
+ContentRegionID,
+OYBMemberID,
+TransactionTime,
+IsUnique,
+Domain,
+PublishedSocialContentStatusID,	
+ShortCode,	
+PublishTime
+FROM _SocialNetworkTracking
